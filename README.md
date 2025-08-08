@@ -806,7 +806,6 @@ streamlit run price_monitor.py
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Price Monitoring Team</p>
   <p>
     <a href="https://github.com/your-repo/price-monitoring-tool">GitHub</a> •
     <a href="https://yourdocs.com">Documentation</a> •
